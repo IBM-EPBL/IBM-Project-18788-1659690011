@@ -3,9 +3,14 @@
 
 A Novel Method for Handwritten Digit Recognition System
 
-TEAM ID:
+TEAM ID:**PNT2022TMID12403**
+
 **TEAM MEMBERS**
+
 DHARIKA
+
 SHYAMALA
+
 SRINITHI
+
 SARANYA
